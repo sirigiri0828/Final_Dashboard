@@ -1,4 +1,3 @@
-import mariadb
 import pandas as pd
 from google.cloud import bigquery
 import pydata_google_auth
