@@ -1,0 +1,8 @@
+pandas
+numpy 
+dash
+matplotlib
+plotly
+google-cloud
+pydata_google_auth
+sklearn
