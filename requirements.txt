@@ -6,3 +6,4 @@ plotly
 google-cloud
 pydata_google_auth
 sklearn
+gunicorn
