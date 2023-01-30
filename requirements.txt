@@ -7,3 +7,4 @@ google-cloud
 pydata_google_auth
 sklearn
 gunicorn
+google-cloud-speech
